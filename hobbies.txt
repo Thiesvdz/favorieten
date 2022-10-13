@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 1. Sporten
 2. Gamen
 3. Vissen
-=======
 1. sport
 2. gamen
 3. vissen
->>>>>>> hobbies
